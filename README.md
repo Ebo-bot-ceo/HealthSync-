@@ -1,13 +1,11 @@
-# `rect`
 
-## Installation
+  # HealthSync Pro Proposal
 
-```sh
-$ yarn add @radix-ui/rect
-# or
-$ npm install @radix-ui/rect
-```
+  This is a code bundle for HealthSync Pro Proposal. The original project is available at https://www.figma.com/design/yFrXf7VYPrLbnaflVMaNGQ/HealthSync-Pro-Proposal.
 
-## Usage
+  ## Running the code
 
-This is an internal utility, not intended for public usage.
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
